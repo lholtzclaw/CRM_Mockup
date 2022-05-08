@@ -38,7 +38,7 @@ header > .col > a > img {
     object-fit: cover;
 }
 
-header > .col > button.btn-sign-in {
+header > .col > a.btn-sign-in {
     font-size: 16px;
     color: #0314fe;
     border: 1px solid #0314fe;
@@ -49,13 +49,13 @@ header > .col > button.btn-sign-in {
     cursor: pointer;
 }
 
-header > .col > button.btn-sign-in:hover {
+header > .col > a.btn-sign-in:hover {
     color: #fff;
     border: 1px solid #0314fe;
     background-color:  #0314fe;
 }
 
-header > .col > button.btn-try {
+header > .col > a.btn-try {
     font-size: 16px;
     color: #fff;
     border: 1px solid #0314fe;
@@ -65,7 +65,7 @@ header > .col > button.btn-try {
     border-radius: 10px;
 }
 
-header > .col > button.btn-try:hover {
+header > .col > a.btn-try:hover {
     color: #0314fe;
     border: 1px solid #0314fe;
     background-color:  #fff;
